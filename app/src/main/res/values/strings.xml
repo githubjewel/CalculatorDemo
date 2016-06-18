@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculatorDemo</string>
+    <string name="backspace">\u2190</string>
+</resources>
